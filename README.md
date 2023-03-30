@@ -7,4 +7,4 @@
 
 ### Hi there 👋
 
-<img align="right" src="[![Pro-dhg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-dhg)]" />
+<img align="right" src=[![Pro-dhg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pro-dhg)] />
